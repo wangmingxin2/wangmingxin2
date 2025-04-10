@@ -8,8 +8,8 @@
 <summary>✨ 点击展开我的成就徽章🏆 </summary>
   <img src="https://github-profile-trophy.vercel.app/?username=王明鑫&theme=onedark&row=1&column=8&margin-w=15&margin-h=15" alt="成就徽章"/> 
 </details>
-<img src="https://komarev.com/ghpvc/?username=王明鑫&label=Profile+Views&color=blueviolet&style=flat" alt="访问量统计" /> 
-<a href="https://github.com/王明鑫?tab=repositories"><img src="https://badges.strrl.dev/repos/王明鑫?color=007ec6&style=flat" alt="仓库数量"/></a>
+<img src="https://komarev.com/ghpvc/?username=wangmingxin2&label=Profile+Views&color=blueviolet&style=flat" alt="访问量统计" /> 
+<a href="https://github.com/wangmingxin2?tab=repositories"><img src="https://badges.strrl.dev/repos/王明鑫?color=007ec6&style=flat" alt="仓库数量"/></a>
 <p>
   🚀 全栈开发者 | 📍 河南 | 💻 技术爱好者<br>
   🔭 正在探索：AI工程化 | 🌱 学习领域：Java、js、Python语言 | ⚡ 兴趣：开源协作与自动化工具 
