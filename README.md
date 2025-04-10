@@ -6,20 +6,20 @@
 <!-- 完整版动态愿景（含多行动画效果） -->
 <details>
 <summary>✨ 点击展开我的成就徽章🏆 </summary>
-  <img src="https://github-profile-trophy.vercel.app/?username=王明鑫&theme=onedark&row=1&column=8&margin-w=15&margin-h=15" alt="成就徽章"/> 
+  <img src="https://github-profile-trophy.vercel.app/?username=ccxyChuzhong&theme=onedark&row=1&column=8&margin-w=15&margin-h=15" alt="成就徽章"/> 
 </details>
 <img src="https://komarev.com/ghpvc/?username=wangmingxin2&label=Profile+Views&color=blueviolet&style=flat" alt="访问量统计" /> 
-<a href="https://github.com/wangmingxin2?tab=repositories"><img src="https://badges.strrl.dev/repos/王明鑫?color=007ec6&style=flat" alt="仓库数量"/></a>
+<a href="https://github.com/wangmingxin2?tab=repositories"><img src="https://badges.strrl.dev/repos/ccxyChuzhong?color=007ec6&style=flat" alt="仓库数量"/></a>
 <p>
   🚀 全栈开发者 | 📍 河南 | 💻 技术爱好者<br>
-  🔭 正在探索：AI工程化 | 🌱 学习领域：Java、js、Python语言 | ⚡ 兴趣：开源协作与自动化工具 
+  🔭 正在探索：AI工程化 | 🌱 学习领域：Java、GoLang、Python、Rust语言 | ⚡ 兴趣：开源协作与自动化工具 
 </p>
 </div>
 
 <!-- 动态统计卡片（引用github-readme-stats） -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=王明鑫&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&border_radius=15"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=王明鑫&layout=compact&langs_count=8&theme=nightowl&border_radius=15"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wangmingxin2&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&border_radius=15"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangmingxin2&layout=compact&langs_count=8&theme=nightowl&border_radius=15"/>
 </div>
 
 ---
@@ -42,7 +42,7 @@
 ---
 
 ## 🌟 精选项目
-### [🔗 书签管理器](https://github.com/王明鑫/Bookmark-Inspector)
+### [🔗 书签管理器](https://github.com/ccxyChuzhong/Bookmark-Inspector)
 ![javascript](https://img.shields.io/badge/-javascript-3776AB?logo=javascript&logoColor=white)
 ![html](https://img.shields.io/badge/html-h5-red?logo=html&logoColor=white)
 ### 🚀一款专注于书签健康管理的浏览器扩展，提供智能检测、批量操作与跨设备同步能力。
